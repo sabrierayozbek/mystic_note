@@ -1,0 +1,57 @@
+﻿@model MistikRota.Entites.Category
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="row">
+
+    <div class="col-md-8 col-md-offset-2">
+
+        <h2>Sil</h2>
+        <h3>Bunu silmek istediğinize emin misiniz?</h3>
+    </div>
+
+</div>
+
+
+
+<div class="row">
+    
+    <div class="col-md-8 col-md-offset-2">
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+        </dl>
+    </div>
+
+</div>
+   
+    
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <div class="col-md-8 col-md-offset-2">
+                @Bootstrap.Button("danger", string.Empty, "submit", "remove", " Kaldır")
+                @Bootstrap.LinkButton("/Category/Index", "default", string.Empty, string.Empty, "arrow-left", " Back to List")
+            </div>
+               
+            </div>
+    }
+

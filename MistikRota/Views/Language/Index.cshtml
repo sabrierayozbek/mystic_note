@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Dil Seçim Sayfası";
+}
+
+<link href="~/Content/thumbnail-gallery.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+
+    <h1 class="my-4 text-center text-lg-left">Dil Seçimi</h1>
+
+    <div class="row text-center text-lg-left">
+
+        <div class="col-lg-3 col-md-4 col-xs-6">
+            <a href=" @Url.Action("Change", "Language", new { languageSelect = "tr" }, null)" class="d-block mb-4 h-100">
+                <img class="img-fluid img-thumbnail" src="~/Images/hd-turk-bayragi-png-2.png" /> 
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6">
+            <a href="@Url.Action("Change", "Language", new { languageSelect = "en" }, null)" class="d-block mb-4 h-100">
+                <img class="img-fluid img-thumbnail" src="~/Images/gb.png" /> 
+            </a>
+        </div>
+        <div class="col-lg-3 col-md-4 col-xs-6">
+            <a href="@Url.Action("Change", "Language", new { languageSelect = "fr" }, null)" class="d-block mb-4 h-100">
+                <img class="img-fluid img-thumbnail" src="~/Images/fr.png" /> 
+            </a>
+        </div>
+
+        <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+        <script src="~/Scripts/bootstrap.min.js"></script>
+
+       
+       
+      

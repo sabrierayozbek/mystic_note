@@ -1,0 +1,12 @@
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Common\bin\Debug\MistikRota.Common.dll
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Common\bin\Debug\MistikRota.Common.pdb
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Common\obj\Debug\MistikRota.Common.csproj.CoreCompileInputs.cache
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Common\obj\Debug\MistikRota.Common.dll
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Common\obj\Debug\MistikRota.Common.pdb
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Common\obj\Debug\MistikRota.Common.csprojResolveAssemblyReference.cache
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Common\bin\Debug\MistikRota.Common.dll
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Common\bin\Debug\MistikRota.Common.pdb
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Common\obj\Debug\MistikRota.Common.csprojResolveAssemblyReference.cache
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Common\obj\Debug\MistikRota.Common.csproj.CoreCompileInputs.cache
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Common\obj\Debug\MistikRota.Common.dll
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Common\obj\Debug\MistikRota.Common.pdb

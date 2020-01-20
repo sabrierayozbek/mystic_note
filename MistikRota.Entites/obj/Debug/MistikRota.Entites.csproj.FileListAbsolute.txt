@@ -1,0 +1,12 @@
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Entites\bin\Debug\MistikRota.Entites.dll
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Entites\bin\Debug\MistikRota.Entites.pdb
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Entites\obj\Debug\MistikRota.Entites.csproj.CoreCompileInputs.cache
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Entites\obj\Debug\MistikRota.Entites.dll
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Entites\obj\Debug\MistikRota.Entites.pdb
+C:\Users\erayo\source\repos\schoolProject\MistikRotaSolution\MistikRota.Entites\obj\Debug\MistikRota.Entites.csprojResolveAssemblyReference.cache
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Entites\bin\Debug\MistikRota.Entites.dll
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Entites\bin\Debug\MistikRota.Entites.pdb
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Entites\obj\Debug\MistikRota.Entites.csprojResolveAssemblyReference.cache
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Entites\obj\Debug\MistikRota.Entites.csproj.CoreCompileInputs.cache
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Entites\obj\Debug\MistikRota.Entites.dll
+C:\Users\erayo\source\repos\schoolProjectSunum\MistikRotaSolution\MistikRota.Entites\obj\Debug\MistikRota.Entites.pdb

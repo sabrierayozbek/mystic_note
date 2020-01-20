@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistikRota", "MistikRota\MistikRota.csproj", "{C4B6D426-03F5-45F5-96B4-B67BDBEE2519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistikRota.BusinessLayer", "MistikRota.BusinessLayer\MistikRota.BusinessLayer.csproj", "{00F43A69-C925-44E8-93EE-74D0FEB559EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistikRota.DataAccessLayer", "MistikRota.DataAccessLayer\MistikRota.DataAccessLayer.csproj", "{C84A56B7-0AA0-4A61-9F36-79B0192627D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistikRota.Entites", "MistikRota.Entites\MistikRota.Entites.csproj", "{BC1A8A42-A4D8-4672-9716-5724615CF99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistikRota.Common", "MistikRota.Common\MistikRota.Common.csproj", "{9F092719-7C67-49F1-84C4-25C1B0128FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MistikRota.Core", "MistikRota.Core\MistikRota.Core.csproj", "{0E87FAAD-84F8-4C94-A46C-CBAB1C8B7365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4B6D426-03F5-45F5-96B4-B67BDBEE2519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B6D426-03F5-45F5-96B4-B67BDBEE2519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B6D426-03F5-45F5-96B4-B67BDBEE2519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B6D426-03F5-45F5-96B4-B67BDBEE2519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F43A69-C925-44E8-93EE-74D0FEB559EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F43A69-C925-44E8-93EE-74D0FEB559EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F43A69-C925-44E8-93EE-74D0FEB559EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F43A69-C925-44E8-93EE-74D0FEB559EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84A56B7-0AA0-4A61-9F36-79B0192627D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84A56B7-0AA0-4A61-9F36-79B0192627D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84A56B7-0AA0-4A61-9F36-79B0192627D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84A56B7-0AA0-4A61-9F36-79B0192627D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1A8A42-A4D8-4672-9716-5724615CF99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1A8A42-A4D8-4672-9716-5724615CF99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1A8A42-A4D8-4672-9716-5724615CF99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1A8A42-A4D8-4672-9716-5724615CF99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F092719-7C67-49F1-84C4-25C1B0128FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F092719-7C67-49F1-84C4-25C1B0128FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F092719-7C67-49F1-84C4-25C1B0128FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F092719-7C67-49F1-84C4-25C1B0128FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E87FAAD-84F8-4C94-A46C-CBAB1C8B7365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E87FAAD-84F8-4C94-A46C-CBAB1C8B7365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E87FAAD-84F8-4C94-A46C-CBAB1C8B7365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E87FAAD-84F8-4C94-A46C-CBAB1C8B7365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75C6C6C-93A5-4985-A880-BD30BADCDECC}
+	EndGlobalSection
+EndGlobal

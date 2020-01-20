@@ -1,0 +1,17 @@
+﻿@using MistikRota.BusinessLayer
+@using MistikRota.Entites
+@using MistikRota.Resources
+
+@{
+    CategoryManager cm = new CategoryManager();
+    List<Category> list = cm.List();
+}
+
+<p class="lead">@Resource.kategoriler</p>
+<div class="list-group">
+    <a href="@Url.Action("Index","Home")" class="list-group-item"><span class="glyphicon glyphicon-arrow-right"></span>@Resource.tümü</a>
+    @foreach (var cat in list)
+    {
+      <a href="@Url.Action("ByCategory","Home", new {id = cat.Id})" title="@cat.Description" class="list-group-item"><span class="glyphicon glyphicon-arrow-right"></span>@cat.Title</a>
+    }
+</div>
